@@ -5,7 +5,7 @@ import java.util.*;
 import java.io.*;
 
 public class Write{
-	public static void main(String ...x) throws Exception{
+	public static void main(String ...x) throws Exception{// use throws
 		
 		Writer fw = new FileWriter("E:\\downloads\\file handling giris\\Bycode\\abc.txt", true); // true means append mode on other wise it vanish all previous data and write again
 		
