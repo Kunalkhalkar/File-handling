@@ -22,5 +22,6 @@ public class ass2{
 		Reader r = new FileReader(f);
 		
 		
+		
 	}
 }
