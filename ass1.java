@@ -25,9 +25,10 @@ public class ass1{
 		fw.close();
 		FileReader fr = new FileReader(f);
 		int data;
+		
 		while((data = fr.read()) != -1){
 			System.out.print((char)data);
 		}
-		
+		fw.close();
 	}
 }
