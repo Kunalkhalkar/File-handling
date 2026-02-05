@@ -20,7 +20,7 @@ public class ass2{
 		
 		File f = new File("E:\downloads\file handling giris\\ByCode\\info.txt");
 		Reader r = new FileReader(f);
-		
+		Writer w = new W
 		
 		
 	}
