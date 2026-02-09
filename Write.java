@@ -21,6 +21,7 @@ public class Write{
 		bw.newLine();
 		bw.close();
 		fw.close();
+		
 		System.out.println("Data write successfully");
 	}
 }
