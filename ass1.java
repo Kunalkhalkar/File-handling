@@ -29,6 +29,7 @@ public class ass1{
 		while((data = fr.read()) != -1){
 			System.out.print((char)data);
 		}
+		
 		fw.close();
 	}
 }

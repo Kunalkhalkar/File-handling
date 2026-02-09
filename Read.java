@@ -28,9 +28,11 @@ public class Read{
 		
 		BufferedReader r = new BufferedReader(br);
 		String line;
+		
 		while((line = r.readLine()) != null){
 			System.out.println(line);
 			Thread.sleep(1000);
 		}
 	}
+	
 }
