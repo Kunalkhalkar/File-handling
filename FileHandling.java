@@ -9,6 +9,7 @@ public class Practice{
 public static void main(String...x) throws Exception{
 	Scanner sc = new Scanner(System.in);
 	BufferedReader br = new BufferedReader(new InputStream(System.in));
-	String str = br.
+	String str = br.readLine();
+	System
 }
 }
