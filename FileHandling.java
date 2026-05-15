@@ -10,6 +10,6 @@ public static void main(String...x) throws Exception{
 	Scanner sc = new Scanner(System.in);
 	BufferedReader br = new BufferedReader(new InputStream(System.in));
 	String str = br.readLine();
-	System
+	System.out.println("you have entered"+str);
 }
 }
