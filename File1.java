@@ -4,7 +4,6 @@
 
 import java.io.*;
 import java.util.*;
-
 public class File1{
 	public static void main(String ...x)throws Exception{
 		File f = new File("E:\\downloads\\file handling giris\\Bycode\\abc.txt");
