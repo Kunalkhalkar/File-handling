@@ -10,6 +10,7 @@ public class File1{
 		if(f.exists()){
 			System.out.println("File exists");
 		}
+			
 		else{
 			boolean b = f.createNewFile();
 			if(b){
