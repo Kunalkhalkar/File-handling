@@ -13,6 +13,7 @@ public class File1{
 			
 		else{
 			boolean b = f.createNewFile();
+			//inner if
 			if(b){
 			System.out.println("File created");
 			return;
